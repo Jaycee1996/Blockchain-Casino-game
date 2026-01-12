@@ -7,14 +7,11 @@ Welcome to the most advanced and user-friendly **Casino Game Platform** for laun
 Boost your business by delivering a top-tier **casino experience**, including secure payment integration, a variety of slot machine games, and easy management. Perfect for developers, startups, and enterprises eager to enter the **iGaming**, **online casino**, or **web3 gambling** space.
 
 <p>
-  <a href="mailto:xsui46941@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xsui46941%40gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:jaycee.tran1996@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jaycee.tran1996%40gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/lorine93s">
-    <img src="https://img.shields.io/badge/Telegram-@lorine93s-2AABEE?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kakamajo_btc">
-    <img src="https://img.shields.io/badge/Twitter-@kakamajo__btc-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://t.me/jayceetran1996">
+    <img src="https://img.shields.io/badge/Telegram-@jayceetran1996-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
 
