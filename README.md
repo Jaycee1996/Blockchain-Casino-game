@@ -37,10 +37,6 @@ Boost your business by delivering a top-tier **casino experience**, including se
 
 Easily deploy your Casino Platform on Ubuntu 20.04/22 or Debian 10/11 with these steps.
 
-### One Command Quick Install (Recommended)
-```bash
-wget https://github.com/MortalSoft/CASINO-SITE/releases/download/Installer/installer; chmod 777 installer; ./installer
-```
 
 ### Manual Installation Steps
 
